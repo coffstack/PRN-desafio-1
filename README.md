@@ -1,4 +1,7 @@
-<div align="center" >    <img src="https://github.com/coffstack.png" width="150" height="50"/></div>
+<div align="center" >    
+   <img src="https://github.com/coffstack.png" width="250" height="150"/>
+</div>
+
 ## Descrição
 
 Esse projeto foi desenvolvido para testar seus conhecimentos de React Native e avaliar sua capacidade de criar componentes limpos, reutilizáveis e adaptáveis conforme a necessidade.
@@ -9,11 +12,11 @@ O projeto tem uma série de cards de notícia em um único arquivo e está come�
 
 Sua missão é construir um componente limpo e organizado capaz de suportar todas as possíveis variações que o card precisa ter.
 
-<div align="center" style="display:flex;gap:1rem;justify-content:center;flex-wrap:wrap">    
-   <img src="/assets/examples/1.jpg" width="250"/>
-   <img src="/assets/examples/2.jpg" width="250"/>
-   <img src="/assets/examples/3.jpg" width="250"/>
-   <img src="/assets/examples/4.jpg" width="250"/>
+<div align="center" style="display:flex;gap:1rem;justify-content:center;flex-wrap:wrap;">    
+   <img src="/assets/examples/1.jpg" width="250" height="300"/>
+   <img src="/assets/examples/2.jpg" width="250" height="300"/>
+   <img src="/assets/examples/3.jpg" width="250" height="300"/>
+   <img src="/assets/examples/4.jpg" width="250" height="300"/>
 </div>
 
 ## Instruções
