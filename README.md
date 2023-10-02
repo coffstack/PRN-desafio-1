@@ -1,4 +1,4 @@
-<div align="center" >    <img src="https://github.com/coffstack.png" width="250" height="150"/></div>## Descrição
+<div align="center" >    <img src="https://github.com/coffstack.png" width="150" height="50"/></div>## Descrição
 
 Esse projeto foi desenvolvido para testar seus conhecimentos de React Native e avaliar sua capacidade de criar componentes limpos, reutilizáveis e adaptáveis conforme a necessidade.
 
@@ -23,10 +23,10 @@ Variações:
 Alguns Exemplos:
 
 <div align="center" style="display:flex;gap:1rem;justify-content:center;flex-wrap:wrap">    
-   <img src="/assets/examples/1.jpg" width="250" height="300"/>
-   <img src="/assets/examples/2.jpg" width="250" height="300"/>
-   <img src="/assets/examples/3.jpg" width="250" height="300"/>
-   <img src="/assets/examples/4.jpg" width="250" height="300"/>
+   <img src="/assets/examples/1.jpg" width="250"/>
+   <img src="/assets/examples/2.jpg" width="250"/>
+   <img src="/assets/examples/3.jpg" width="250"/>
+   <img src="/assets/examples/4.jpg" width="250"/>
 </div>
 
 ## Instruções
